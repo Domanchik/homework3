@@ -22,6 +22,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
     'djoser',
+    'django.contrib.staticfiles',
+    'drf_yasg',
     'blog',
 ]
 
